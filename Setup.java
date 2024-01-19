@@ -73,7 +73,7 @@ public class Setup {
             // If we don't have a flag, move to lineup position
             Pathfind.lineup(rc);
 
-            // Fortify.pregameSetup();
+            // Strategy.fortify();
           }
 
         }
